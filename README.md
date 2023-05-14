@@ -26,14 +26,14 @@
 <h3 align="left">Projects (oldest first):</h3>
 <ul>
   <li>
-    WebPages:
+    <b>WebPages:</b>
     <ol style="list-style-type: decimal;">
       <li><a href="https://amhernandez5508.github.io/wwwapas/">Wwwapas</a><i> (HTML - CSS - PHP)</i></li>
       <li><a href="https://amhernandez5508.github.io/SalfordAsoc/">Estudio Juridico Salford y Asociados</a><i> (HTML - CSS - PHP)</i></li>
     </ol>
   </li>
   <li>
-    Web Applications:
+    <b>Web Applications:</b>
     <ol style="list-style-type: decimal;">
       <li><a href="https://amhernandez5508.github.io/Projects-Efficiency/">Efficiency calculator</a><i> (HTML - CSS - JavaScript)</i></li>
     </ol>
