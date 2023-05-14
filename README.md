@@ -30,6 +30,8 @@
     <ol style="list-style-type: decimal;">
       <li><a href="https://amhernandez5508.github.io/wwwapas/">Wwwapas</a><i> (HTML - CSS - PHP)</i></li>
       <li><a href="https://amhernandez5508.github.io/SalfordAsoc/">Estudio Juridico Salford y Asociados</a><i> (HTML - CSS - PHP)</i></li>
+      <li><a href="https://amhernandez5508.github.io/WebHosting/">Web Hosting</a><i> (HTML - CSS - PHP)</i></li>
+      
     </ol>
   </li>
   <li>
