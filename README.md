@@ -44,6 +44,4 @@
   </li>
 </ul>
 
-/*
-Original image LinkedIn: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
-*/
+//Original image LinkedIn: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
