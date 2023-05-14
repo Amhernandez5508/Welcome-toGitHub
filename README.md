@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhernandez5508&label=Profile%20views&color=ff00ff&style=flat" alt="amhernandez5508" /> </p>
 
 
-- 🌱 I’m currently learning **Java Frameworks and JavaScripts advanced concepts**
+- 🌱 I’m currently learning **Java Frameworks (Spring and Hibernate) and JavaScripts advanced concepts**
 
 - 💬 Ask me about **JAVA, HTML, CSS, JavaScript, Git, SQL (MySQL mainly), POO**
 
