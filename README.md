@@ -1,6 +1,6 @@
 <img align="center" src="https://media.licdn.com/dms/image/D4D16AQEwEYfSXjvwOA/profile-displaybackgroundimage-shrink_350_1400/0/1677366487929?e=1689811200&v=beta&t=qJRfT-8gVqHUGgyJOxNk9vDMoORNK8DF7ZBYbePhvKY" alt="welcome-banner">
 
-<h1 align="center">HI!👋, I'm Alejandro Hernandez</h1>
+<h1 align="center">HI!👋, I'm Alejandro Hernández</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhernandez5508&label=Profile%20views&color=ff00ff&style=flat" alt="amhernandez5508" /> </p>
 
