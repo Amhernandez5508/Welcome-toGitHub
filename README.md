@@ -29,7 +29,6 @@
 <h3 align="left">Projects (oldest first):</h3>
 <ul>
   <li>
-    https://github.com/Amhernandez5508/Bank-System
     <b>Backend:</b>
     <ol style="list-style-type: decimal;">
       <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
