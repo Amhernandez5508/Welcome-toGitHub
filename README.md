@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Frameworks (Spring and Hibernate) and JavaScripts advanced concepts**
 
-- 💬 Ask me about **JAVA, HTML, CSS, JavaScript, Git, SQL (MySQL mainly), POO**
+- 💬 Ask me about ** JAVA JSE & JEE, HTML, CSS, JavaScript, Git, Relational Databases **
 
 - 📫 How to reach me **ahernandez5508@gmail.com**
 
