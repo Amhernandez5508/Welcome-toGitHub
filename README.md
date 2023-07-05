@@ -32,6 +32,7 @@
     <b>Backend:</b>
     <ol style="list-style-type: decimal;">
       <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
+      <li><a href="https://github.com/Amhernandez5508/ventas">Ventas y Control de Stock</a><i> (JAVA (JEE, JSP, Servlets, EL, DAO, MVC) - MySQL - HTML - CSS - BootStrap - JS)</i></li>
     </ol>
     <b>WebPages:</b>
     <ol style="list-style-type: decimal;">
