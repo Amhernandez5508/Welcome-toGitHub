@@ -43,7 +43,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut)
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut"/> </a>
 
 <br>
 <h3 align="left">Projects (oldest first):</h3>
