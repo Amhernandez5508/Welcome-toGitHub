@@ -42,7 +42,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> git
 </p>
 
-![Top Langs](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut)
 
 <br>
 <h3 align="left">Projects (oldest first):</h3>
