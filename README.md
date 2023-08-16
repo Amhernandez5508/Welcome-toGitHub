@@ -43,10 +43,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amhernandez5508&layout=donut)
 
 <br>
-<h3 align="left">Projects (oldest first):</h3>
+<h3 align="left">Projects (Newest first):</h3>
 <ul>
   <li><a><a href="https://github.com/Amhernandez5508/TaskManager-CRUD">Task Repository API REST</a><i> (JAVA - Spring Boot - Spring Data - JPA - Swagger)</</li>
-  <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
   <li><a href="https://github.com/Amhernandez5508/ventas">Ventas y Control de Stock</a><i> (JAVA (JEE, JSP, Servlets, EL, DAO, MVC) - MySQL - HTML - CSS - BootStrap - JS)</i></li>
+  <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
   <li><a href="https://amhernandez5508.github.io/Projects-Efficiency/">Efficiency calculator</a><i> (HTML - CSS - JavaScript)</i></li>
 </ul>
