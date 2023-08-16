@@ -45,23 +45,7 @@
 <br>
 <h3 align="left">Projects (oldest first):</h3>
 <ul>
-  <li>
-    <b>Backend:</b>
-    <ol style="list-style-type: decimal;">
-      <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
-      <li><a href="https://github.com/Amhernandez5508/ventas">Ventas y Control de Stock</a><i> (JAVA (JEE, JSP, Servlets, EL, DAO, MVC) - MySQL - HTML - CSS - BootStrap - JS)</i></li>
-    </ol>
-    <b>WebPages:</b>
-    <ol style="list-style-type: decimal;">
-      <li><a href="https://amhernandez5508.github.io/wwwapas/">Wwwapas</a><i> (HTML - CSS - PHP)</i></li>
-      <li><a href="https://amhernandez5508.github.io/SalfordAsoc/">Estudio Juridico Salford y Asociados</a><i> (HTML - CSS - PHP)</i></li>
-      <li><a href="https://amhernandez5508.github.io/WebHosting/">Web Hosting</a><i> (HTML - CSS - PHP)</i></li>
-    </ol>
-  </li>
-  <li>
-    <b>Web Applications:</b>
-    <ol style="list-style-type: decimal;">
-      <li><a href="https://amhernandez5508.github.io/Projects-Efficiency/">Efficiency calculator</a><i> (HTML - CSS - JavaScript)</i></li>
-    </ol>
-  </li>
+  <li><a href="https://github.com/Amhernandez5508/Bank-System/">Bank System</a><i> (JAVA - MySQL)</i></li>
+  <li><a href="https://github.com/Amhernandez5508/ventas">Ventas y Control de Stock</a><i> (JAVA (JEE, JSP, Servlets, EL, DAO, MVC) - MySQL - HTML - CSS - BootStrap - JS)</i></li>
+  <li><a href="https://amhernandez5508.github.io/Projects-Efficiency/">Efficiency calculator</a><i> (HTML - CSS - JavaScript)</i></li>
 </ul>
