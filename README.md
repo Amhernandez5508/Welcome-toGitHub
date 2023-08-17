@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhernandez5508&label=Profile%20views&color=ff00ff&style=flat" alt="amhernandez5508" /> </p>
 
 
-- 💬 Ask me about ** JAVA JSE & JEE, HTML, CSS, JavaScript, Git, Relational Databases **
+- 💬 Ask me about ** JAVA JSE & JEE, Spring Boot, Spring Framework, JPA, SQL **
 
 - 📫 How to reach me **ahernandez5508@gmail.com**
 
