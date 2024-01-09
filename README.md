@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhernandez5508&label=Profile%20views&color=ff00ff&style=flat" alt="amhernandez5508" /> </p>
 
 
-- 💬 Ask me about ** JAVA Core & JEE, Spring, JPA, Hibernate **
+- 💬 I'm a software development student. Passionate about programming and a tech nerd, I love creating and learning new things. 
 
 - 📫 How to reach me **ahernandez5508@gmail.com**
 
